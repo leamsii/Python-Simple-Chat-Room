@@ -1,0 +1,44 @@
+{
+    "127.0.0.2": {
+        "username": "John Doe",
+        "login_history": [
+            "Sat Jun 22 14:51:41 2019"
+        ],
+        "logout_history": [
+            "Sat Jun 22 14:51:59 2019"
+        ],
+        "chat_history": [
+            "What a beautiful day we're having!",
+            "This is some test dialog.",
+            "Beep boop"
+        ]
+    },
+    "127.0.0.3": {
+        "username": "Jenny Jenkins",
+        "login_history": [
+            "Sat Jun 22 14:51:41 2019"
+        ],
+        "logout_history": [
+            "Sat Jun 22 14:51:59 2019"
+        ],
+        "chat_history": [
+            "What a beautiful day we're having!",
+            "This is some test dialog.",
+            "Beep boop"
+        ]
+    },
+    "127.0.0.4": {
+        "username": "Bob Smith",
+        "login_history": [
+            "Sat Jun 22 14:51:41 2019"
+        ],
+        "logout_history": [
+            "Sat Jun 22 14:51:59 2019"
+        ],
+        "chat_history": [
+            "What a beautiful day we're having!",
+            "This is some test dialog.",
+            "Beep boop"
+        ]
+    }
+}
